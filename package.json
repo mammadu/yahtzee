@@ -1,0 +1,22 @@
+{
+  "name": "yahtzee",
+  "version": "1.0.0",
+  "description": "Today we will be having fun and writing some code! We are going to write a solution to a coding challenge in the language of your choice. The game we will be programming today is [Yahtzee](https://www.youtube.com/watch?v=sQM7sN4NPz8).",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicoleCarpenter/code-retreat.git"
+  },
+  "author": "the squad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicoleCarpenter/code-retreat/issues"
+  },
+  "homepage": "https://github.com/NicoleCarpenter/code-retreat#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
